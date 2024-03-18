@@ -48,7 +48,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git](https://github.com/WURIWILATININGSIH/Latihan1-PAM.git
+   git clone https://github.com/WURIWILATININGSIH/Latihan1-PAM.git
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
