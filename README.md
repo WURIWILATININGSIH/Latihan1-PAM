@@ -50,12 +50,10 @@
    ```sh
    git clone https://github.com/WURIWILATININGSIH/Latihan1-PAM.git
    ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Screenshot
 <div align="center">
   <img src="images/1.jpeg" alt="1">
   <br>
